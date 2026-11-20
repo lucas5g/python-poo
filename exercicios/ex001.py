@@ -13,6 +13,7 @@ class Gafanhoto:
 g1 = Gafanhoto()
 g1.nome = 'Maria'
 g1.idade = 17
+g1.aniversario()
 print(g1.mensagem())
 
 g2 = Gafanhoto()
